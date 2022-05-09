@@ -1,3 +1,14 @@
+# others
+job.sh
+
+# embeddings & results
+classification_identification/hypothesis
+classification_identification/text_representations
+classification_identification/hypothesis
+
+# data folder
+data/task*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
